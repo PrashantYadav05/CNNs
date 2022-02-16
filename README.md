@@ -4,7 +4,7 @@
 
 ## How milestone model architectural innovations work:
 * LeNet-5
-* AlexNet
+* ![My Image](C:\Users\talk2_000\Pictures\AlexNet.png)
 * VGG
 * Inception and GoogLeNet
 * Residual Network or ResNet
