@@ -10,8 +10,9 @@ Let’s see the architectural details in this article.
 * ![AlexNet](AlexNet.png)
 * VGG-16 
 * ![VGG16](VGG16.png)
-* Inception and GoogLeNet
 * Residual Network or ResNet
+* Inception and GoogLeNet
+* ![Inception](GoogleNet-Inception-V1.png)
 
 ## How to use 1x1 Convolutions to manage model complexity
 
